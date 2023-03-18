@@ -1175,14 +1175,14 @@ Picker option to indicate that a zap should be sent privately and not identify t
         <target>Translate Note</target>
         <note>Button to translate note from different language.</note>
       </trans-unit>
-      <trans-unit id="Translated from (lang)" xml:space="preserve">
-        <source>Translated from (lang)</source>
-        <target>Translated from (lang)</target>
+      <trans-unit id="Translated from %@" xml:space="preserve">
+        <source>Translated from %@</source>
+        <target>Translated from %@</target>
         <note>Button to indicate that the note has been translated from a different language.</note>
       </trans-unit>
-      <trans-unit id="Translating from (lang)..." xml:space="preserve">
-        <source>Translating from (lang)...</source>
-        <target>Translating from (lang)...</target>
+      <trans-unit id="Translating from %@..." xml:space="preserve">
+        <source>Translating from %@...</source>
+        <target>Translating from %@...</target>
         <note>Button to indicate that the note is in the process of being translated from a different language.</note>
       </trans-unit>
       <trans-unit id="Translations" xml:space="preserve">
