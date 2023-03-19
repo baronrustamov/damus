@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4CE6DEE227F7A08100C66700"
-               BuildableName = "damus.app"
+               BuildableName = "Semaphore.app"
                BlueprintName = "damus"
                ReferencedContainer = "container:damus.xcodeproj">
             </BuildableReference>
@@ -65,7 +65,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4CE6DEE227F7A08100C66700"
-            BuildableName = "damus.app"
+            BuildableName = "Semaphore.app"
             BlueprintName = "damus"
             ReferencedContainer = "container:damus.xcodeproj">
          </BuildableReference>
@@ -82,7 +82,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4CE6DEE227F7A08100C66700"
-            BuildableName = "damus.app"
+            BuildableName = "Semaphore.app"
             BlueprintName = "damus"
             ReferencedContainer = "container:damus.xcodeproj">
          </BuildableReference>
@@ -93,6 +93,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      customArchiveName = "semaphore"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>

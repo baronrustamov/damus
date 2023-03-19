@@ -196,7 +196,7 @@ Sentence composed of 2 variables to describe how many relay servers a user is co
 "Custom" = "Kustom";
 
 /* Name of the app, shown on the first screen when user is not logged in. */
-"Damus" = "Damus";
+"Damus" = "Semaphore";
 
 /* Dropdown option for selecting DeepL as the translation service. */
 "DeepL (Proprietary, Higher Accuracy)" = "DeepL (Kepemilikan, Lebih Akurat)";
