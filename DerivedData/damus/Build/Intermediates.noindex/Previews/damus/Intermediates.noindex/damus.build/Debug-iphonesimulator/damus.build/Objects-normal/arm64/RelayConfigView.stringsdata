@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/Relays/RelayConfigView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Header text for relay server list for configuration.",
+        "key": "Relays"
+      }
+    ]
+  },
+  "version": 1
+}

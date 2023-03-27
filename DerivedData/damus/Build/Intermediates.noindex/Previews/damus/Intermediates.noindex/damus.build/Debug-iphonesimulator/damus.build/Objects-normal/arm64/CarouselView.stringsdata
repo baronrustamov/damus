@@ -1,0 +1,40 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/CarouselView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "You, in this context, is the person who controls their own social network. You is used in the context of a larger sentence that welcomes the reader to the social network that they control themself.",
+        "key": "you"
+      },
+      {
+        "comment": "Welcoming message to the reader. The variable is 'you', the reader.",
+        "key": "Welcome to the social network %@ control."
+      },
+      {
+        "comment": "Heading indicating that this application keeps private messaging end-to-end encrypted.",
+        "key": "Encrypted"
+      },
+      {
+        "comment": "Explanation of what is done to keep private data encrypted. There is a heading that precedes this explanation which is a variable to this string.",
+        "key": "%@. End-to-End encrypted private messaging. Keep Big Tech out of your DMs"
+      },
+      {
+        "comment": "Heading indicating that this application keeps personally identifiable information private. A sentence describing what is done to keep data private comes after this heading.",
+        "key": "Private"
+      },
+      {
+        "comment": "Explanation of what is done to keep personally identifiable information private. There is a heading that precedes this explanation which is a variable to this string.",
+        "key": "%@. Creating an account doesn't require a phone number, email or name. Get started right away with zero friction."
+      },
+      {
+        "comment": "Heading indicating that this application allows users to earn money.",
+        "key": "Earn Money"
+      },
+      {
+        "comment": "Explanation of what can be done by users to earn money. There is a heading that precedes this explanation which is a variable to this string.",
+        "key": "%@. Tip your friend's posts and stack sats with Bitcoin⚡️, the native currency of the internet."
+      }
+    ]
+  },
+  "version": 1
+}

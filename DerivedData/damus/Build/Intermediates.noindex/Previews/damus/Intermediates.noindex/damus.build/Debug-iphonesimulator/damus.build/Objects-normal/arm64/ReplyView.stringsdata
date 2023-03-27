@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/ReplyView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Indicating that the user is replying to the following listed people.",
+        "key": "Replying to:"
+      }
+    ]
+  },
+  "version": 1
+}

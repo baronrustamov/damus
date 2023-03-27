@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/RelayFilterView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Instructions on how to filter a specific timeline feed by choosing relay servers to filter on.",
+        "key": "Please choose relays from the list below to filter the current feed:"
+      }
+    ]
+  },
+  "version": 1
+}

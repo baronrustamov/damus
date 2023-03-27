@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/SearchHomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Cancel out of search view.",
+        "key": "Cancel"
+      }
+    ]
+  },
+  "version": 1
+}

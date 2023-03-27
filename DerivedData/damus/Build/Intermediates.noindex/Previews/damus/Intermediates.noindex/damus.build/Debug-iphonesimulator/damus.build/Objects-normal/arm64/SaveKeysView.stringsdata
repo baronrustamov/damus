@@ -1,0 +1,40 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/SaveKeysView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Text to welcome user.",
+        "key": "Welcome, %@!"
+      },
+      {
+        "comment": "Reminder to user that they should save their account information.",
+        "key": "Before we get started, you'll need to save your account info, otherwise you won't be able to login in the future if you ever uninstall Damus."
+      },
+      {
+        "comment": "Label to indicate that text below is the user's public key used by others to uniquely refer to the user.",
+        "key": "Public Key"
+      },
+      {
+        "comment": "Label to describe that a public key is the user's account ID and what they can do with it.",
+        "key": "This is your account ID, you can give this to your friends so that they can follow you. Tap to copy."
+      },
+      {
+        "comment": "Label to indicate that the text below is the user's private key used by only the user themself as a secret to login to access their account.",
+        "key": "Private Key"
+      },
+      {
+        "comment": "Label to describe that a private key is the user's secret account key and what they should do with it.",
+        "key": "This is your secret account key. You need this to access your account. Don't share this with anyone! Save it in a password manager and keep it safe!"
+      },
+      {
+        "comment": "Error message indicating why saving keys failed.",
+        "key": "Error: %@"
+      },
+      {
+        "comment": "",
+        "key": ""
+      }
+    ]
+  },
+  "version": 1
+}

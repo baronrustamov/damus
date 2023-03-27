@@ -1,0 +1,575 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "20cea0b1d5cdb9e09ef7ea6d1c6a9692c3c28ce55f1982726e3be5ee389fb132",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+          "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex",
+              "SYMROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B5EA4E79-BFE7-4A11-B458-BBC26F66DB17",
+              "TARGET_DEVICE_MODEL" : "iPhone15,3",
+              "TARGET_DEVICE_OS_VERSION" : "16.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-TARGET:Kingfisher",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+          "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex",
+              "SYMROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B5EA4E79-BFE7-4A11-B458-BBC26F66DB17",
+              "TARGET_DEVICE_MODEL" : "iPhone15,3",
+              "TARGET_DEVICE_OS_VERSION" : "16.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-TARGET:Starscream",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+          "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex",
+              "SYMROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B5EA4E79-BFE7-4A11-B458-BBC26F66DB17",
+              "TARGET_DEVICE_MODEL" : "iPhone15,3",
+              "TARGET_DEVICE_OS_VERSION" : "16.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:secp256k1",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+          "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex",
+              "SYMROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B5EA4E79-BFE7-4A11-B458-BBC26F66DB17",
+              "TARGET_DEVICE_MODEL" : "iPhone15,3",
+              "TARGET_DEVICE_OS_VERSION" : "16.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:Starscream",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+          "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex",
+              "SYMROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B5EA4E79-BFE7-4A11-B458-BBC26F66DB17",
+              "TARGET_DEVICE_MODEL" : "iPhone15,3",
+              "TARGET_DEVICE_OS_VERSION" : "16.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-TARGET:secp256k1_bindings",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+          "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex",
+              "SYMROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B5EA4E79-BFE7-4A11-B458-BBC26F66DB17",
+              "TARGET_DEVICE_MODEL" : "iPhone15,3",
+              "TARGET_DEVICE_OS_VERSION" : "16.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:Kingfisher",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+          "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex",
+              "SYMROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B5EA4E79-BFE7-4A11-B458-BBC26F66DB17",
+              "TARGET_DEVICE_MODEL" : "iPhone15,3",
+              "TARGET_DEVICE_OS_VERSION" : "16.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:Vault",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+          "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex",
+              "SYMROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B5EA4E79-BFE7-4A11-B458-BBC26F66DB17",
+              "TARGET_DEVICE_MODEL" : "iPhone15,3",
+              "TARGET_DEVICE_OS_VERSION" : "16.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-TARGET:secp256k1",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+          "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex",
+              "SYMROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B5EA4E79-BFE7-4A11-B458-BBC26F66DB17",
+              "TARGET_DEVICE_MODEL" : "iPhone15,3",
+              "TARGET_DEVICE_OS_VERSION" : "16.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-TARGET:secp256k1_implementation",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+          "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex",
+              "SYMROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B5EA4E79-BFE7-4A11-B458-BBC26F66DB17",
+              "TARGET_DEVICE_MODEL" : "iPhone15,3",
+              "TARGET_DEVICE_OS_VERSION" : "16.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-TARGET:Vault",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+          "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex",
+              "SYMROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B5EA4E79-BFE7-4A11-B458-BBC26F66DB17",
+              "TARGET_DEVICE_MODEL" : "iPhone15,3",
+              "TARGET_DEVICE_OS_VERSION" : "16.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/vladislavsorokin/reps/damus/damus.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+      "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,3",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "B5EA4E79-BFE7-4A11-B458-BBC26F66DB17",
+          "TARGET_DEVICE_MODEL" : "iPhone15,3",
+          "TARGET_DEVICE_OS_VERSION" : "16.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

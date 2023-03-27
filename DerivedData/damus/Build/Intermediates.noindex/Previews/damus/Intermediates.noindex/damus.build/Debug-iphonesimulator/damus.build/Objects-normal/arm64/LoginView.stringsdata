@@ -1,0 +1,32 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/LoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Title of view to log into an account.",
+        "key": "Login"
+      },
+      {
+        "comment": "Prompt for user to enter an account key to login.",
+        "key": "Enter your account key to login:"
+      },
+      {
+        "comment": "Warning that the inputted account key for login is an old-style and asking user to verify if it is a public key.",
+        "key": "This is an old-style nostr key. We're not sure if it's a pubkey or private key. Please toggle the button below if this a public key."
+      },
+      {
+        "comment": "Warning that the inputted account key is a public key and the result of what happens because of it.",
+        "key": "This is a public key, you will not be able to make posts or interact in any way. This is used for viewing accounts from their perspective."
+      },
+      {
+        "comment": "Prompt to ask user if the key they entered is a public key.",
+        "key": "Public Key?"
+      },
+      {
+        "comment": "",
+        "key": ""
+      }
+    ]
+  },
+  "version": 1
+}

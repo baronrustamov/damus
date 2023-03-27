@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "e04bfec23b9e918c9f13eee28c660f638ace02ccbf3399c7c8103835097c18d7"
+build_start_time: [1679213360, 741477012]
+build_end_time: [1679213360, 809739112]
+inputs:
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/secp256k1/EntryPoint.swift": [1679213339, 102171421]

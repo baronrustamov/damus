@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/SetupView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Name of the app, shown on the first screen when user is not logged in.",
+        "key": "Damus"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,40 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/ProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Button to edit user's profile.",
+        "key": "Edit"
+      },
+      {
+        "comment": "Label describing followers of a user.",
+        "key": "Followers"
+      },
+      {
+        "comment": "",
+        "key": "%lld"
+      },
+      {
+        "comment": "Sentence composed of 2 variables to describe how many people are following a user. In source English, the first variable is the number of followers, and the second variable is 'Follower' or 'Followers'.",
+        "key": "%@ %@"
+      },
+      {
+        "comment": "",
+        "key": ""
+      },
+      {
+        "comment": "Label for filter for seeing only your posts (instead of posts and replies).",
+        "key": "Posts"
+      },
+      {
+        "comment": "Label for filter for seeing your posts and replies (instead of only your posts).",
+        "key": "Posts & Replies"
+      },
+      {
+        "comment": "Label indicating that the text is a user's public account key.",
+        "key": "Public key"
+      }
+    ]
+  },
+  "version": 1
+}

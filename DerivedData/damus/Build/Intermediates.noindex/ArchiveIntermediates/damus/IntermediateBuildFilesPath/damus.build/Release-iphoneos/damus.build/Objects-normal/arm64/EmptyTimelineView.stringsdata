@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/Empty Views/EmptyTimelineView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Indicates that there are no notes in the timeline to view.",
+        "key": "Nothing to see here. Check back later!"
+      }
+    ]
+  },
+  "version": 1
+}

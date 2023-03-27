@@ -1,0 +1,16 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/DMChatView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": ""
+      },
+      {
+        "comment": "Text prompt for user to send a message to the other user.",
+        "key": "Send a message to start the conversation..."
+      }
+    ]
+  },
+  "version": 1
+}

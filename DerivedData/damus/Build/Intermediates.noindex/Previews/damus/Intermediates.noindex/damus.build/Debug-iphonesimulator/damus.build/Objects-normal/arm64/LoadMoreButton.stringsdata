@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/Timeline/LoadMoreButton.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Button text for loading more events, where the variable is the number of events.",
+        "key": "Load %lld more"
+      }
+    ]
+  },
+  "version": 1
+}

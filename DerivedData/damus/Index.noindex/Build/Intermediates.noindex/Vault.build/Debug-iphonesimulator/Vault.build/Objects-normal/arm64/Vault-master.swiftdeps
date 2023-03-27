@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "410808d3957b5b734bc39c05ff6825a5187ce30a3a52bef5d7e69c133d68a638"
+build_start_time: [1679213348, 963274002]
+build_end_time: [1679213350, 140990972]
+inputs:
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Vault/Sources/Vault/KeychainItem.swift": [1679213338, 908492088]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Vault/Sources/Vault/Vault.swift": [1679213338, 908555507]

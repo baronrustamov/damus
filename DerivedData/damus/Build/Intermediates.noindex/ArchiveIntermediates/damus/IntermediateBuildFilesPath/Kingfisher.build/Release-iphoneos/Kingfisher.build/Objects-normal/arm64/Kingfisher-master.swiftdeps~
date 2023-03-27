@@ -1,0 +1,88 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "6f470e7562e5c826d335f008d8ec469ee303e7329f6598819db181cf9bf5db07"
+build_start_time: [1679231415, 37613868]
+build_end_time: [1679231415, 57361125]
+inputs:
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Cache/CacheSerializer.swift": !dirty [1679213343, 614857673]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Cache/DiskStorage.swift": !dirty [1679213343, 614996671]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Cache/FormatIndicatedCacheSerializer.swift"
+  : !dirty [1679213343, 615150928]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Cache/ImageCache.swift": !dirty [1679213343, 615520715]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Cache/MemoryStorage.swift": !dirty [1679213343, 615651369]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Cache/Storage.swift": !dirty [1679213343, 615737915]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/CPListItem+Kingfisher.swift"
+  : !dirty [1679213343, 615918159]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift"
+  : !dirty [1679213343, 616017818]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSButton+Kingfisher.swift"
+  : !dirty [1679213343, 616108417]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSTextAttachment+Kingfisher.swift"
+  : !dirty [1679213343, 616190910]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/TVMonogramView+Kingfisher.swift"
+  : !dirty [1679213343, 616274833]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/UIButton+Kingfisher.swift"
+  : !dirty [1679213343, 616374969]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/WKInterfaceImage+Kingfisher.swift"
+  : !dirty [1679213343, 616472482]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/AVAssetImageDataProvider.swift"
+  : !dirty [1679213343, 616652488]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/ImageDataProvider.swift"
+  : !dirty [1679213343, 616766929]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Resource.swift"
+  : !dirty [1679213343, 616864204]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Source.swift"
+  : !dirty [1679213343, 616963863]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/KF.swift": !dirty [1679213343, 617160797]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/KFOptionsSetter.swift": !dirty [1679213343, 617323875]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/Kingfisher.swift": !dirty [1679213343, 617409467]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherError.swift": !dirty [1679213343, 617581605]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherManager.swift": !dirty [1679213343, 617792367]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherOptionsInfo.swift"
+  : !dirty [1679213343, 617955684]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/Filter.swift": !dirty [1679213343, 618093490]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/GIFAnimatedImage.swift": !dirty [1679213343, 618187427]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/GraphicsContext.swift": !dirty [1679213343, 618263006]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/Image.swift": !dirty [1679213343, 618364334]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageDrawing.swift": !dirty [1679213343, 618486881]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageFormat.swift": !dirty [1679213343, 618580579]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProcessor.swift": !dirty [1679213343, 618736743]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProgressive.swift": !dirty [1679213343, 618867397]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageTransition.swift": !dirty [1679213343, 618961811]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/Placeholder.swift": !dirty [1679213343, 619061946]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift"
+  : !dirty [1679213343, 619307518]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDataProcessor.swift"
+  : !dirty [1679213343, 619392395]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloader.swift"
+  : !dirty [1679213343, 619599580]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift"
+  : !dirty [1679213343, 619709014]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageModifier.swift": !dirty [1679213343, 619825601]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImagePrefetcher.swift"
+  : !dirty [1679213343, 619966745]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/RedirectHandler.swift"
+  : !dirty [1679213343, 620059490]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/RequestModifier.swift"
+  : !dirty [1679213343, 620129585]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/RetryStrategy.swift": !dirty [1679213343, 620211362]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDataTask.swift"
+  : !dirty [1679213343, 620329856]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDelegate.swift"
+  : !dirty [1679213343, 620403289]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageBinder.swift": !dirty [1679213343, 620527267]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageContext.swift": !dirty [1679213343, 620602607]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift": !dirty [1679213343, 620697498]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImage.swift": !dirty [1679213343, 620806694]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageOptions.swift": !dirty [1679213343, 620897293]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageProtocol.swift": !dirty [1679213343, 621040821]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageRenderer.swift": !dirty [1679213343, 621174573]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/Box.swift": !dirty [1679213343, 621474027]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/CallbackQueue.swift": !dirty [1679213343, 621562957]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/Delegate.swift": !dirty [1679213343, 621707439]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/ExtensionHelpers.swift": !dirty [1679213343, 621799230]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/Result.swift": !dirty [1679213343, 621899366]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/Runtime.swift": !dirty [1679213343, 622022628]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/SizeExtensions.swift": !dirty [1679213343, 622108459]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/String+MD5.swift": !dirty [1679213343, 622222423]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Views/AnimatedImageView.swift": !dirty [1679213343, 622400760]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Views/Indicator.swift": !dirty [1679213343, 622516155]

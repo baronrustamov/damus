@@ -1,0 +1,65 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F445622ADF7BC8DD0FDC92B77AC161B336EB16AE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6BCF6A8705E0B0CFE6DEC99DA651569D80387ECD" : 0,
+    "17FB51EC7B87DC25DD21E28FDFD877B479CFFAC1" : 0,
+    "C86D95FCAEB1FEA0694B5D4AC7241D7E5F42F31D" : 0,
+    "B204DB137FDC74AE33F6F179AD8C73EC698DEBDF" : 0,
+    "89A5E58482D8620A30DE4E9857B72FF8047DA8B2" : 0,
+    "F445622ADF7BC8DD0FDC92B77AC161B336EB16AE" : 0,
+    "81AE7A646206E24AC890AD3038926E1C91BA85A6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "06FDCD63-E381-4AA7-A7C0-02AE57D123EE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6BCF6A8705E0B0CFE6DEC99DA651569D80387ECD" : "damus\/DerivedData\/damus\/SourcePackages\/checkouts\/secp256k1.swift\/Sources\/implementation\/swift-crypto\/",
+    "17FB51EC7B87DC25DD21E28FDFD877B479CFFAC1" : "damus\/DerivedData\/damus\/SourcePackages\/checkouts\/Kingfisher\/",
+    "C86D95FCAEB1FEA0694B5D4AC7241D7E5F42F31D" : "damus\/DerivedData\/damus\/SourcePackages\/checkouts\/Starscream\/",
+    "B204DB137FDC74AE33F6F179AD8C73EC698DEBDF" : "damus\/DerivedData\/damus\/SourcePackages\/checkouts\/secp256k1.swift\/",
+    "89A5E58482D8620A30DE4E9857B72FF8047DA8B2" : "damus\/DerivedData\/damus\/SourcePackages\/checkouts\/secp256k1.swift\/Sources\/bindings\/secp256k1\/",
+    "F445622ADF7BC8DD0FDC92B77AC161B336EB16AE" : "damus\/",
+    "81AE7A646206E24AC890AD3038926E1C91BA85A6" : "damus\/DerivedData\/damus\/SourcePackages\/checkouts\/Vault\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "damus",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "damus.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/vladislavsorokin\/reps\/damus\/DerivedData\/damus\/SourcePackages\/repositories\/Kingfisher-ad75ae2d",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "17FB51EC7B87DC25DD21E28FDFD877B479CFFAC1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/apple\/swift-crypto",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6BCF6A8705E0B0CFE6DEC99DA651569D80387ECD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/vladislavsorokin\/reps\/damus\/DerivedData\/damus\/SourcePackages\/repositories\/Vault-30590c11",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "81AE7A646206E24AC890AD3038926E1C91BA85A6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bitcoin-core\/secp256k1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89A5E58482D8620A30DE4E9857B72FF8047DA8B2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/vladislavsorokin\/reps\/damus\/DerivedData\/damus\/SourcePackages\/repositories\/secp256k1.swift-b6107c43",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B204DB137FDC74AE33F6F179AD8C73EC698DEBDF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/vladislavsorokin\/reps\/damus\/DerivedData\/damus\/SourcePackages\/repositories\/Starscream-95d26df5",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C86D95FCAEB1FEA0694B5D4AC7241D7E5F42F31D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:baronrustamov\/damus.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F445622ADF7BC8DD0FDC92B77AC161B336EB16AE"
+    }
+  ]
+}

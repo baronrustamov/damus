@@ -1,0 +1,32 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/ReportView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Message indicating that a report was successfully sent to relay servers.",
+        "key": "Report sent!"
+      },
+      {
+        "comment": "Description of what was done as a result of sending a report to relay servers.",
+        "key": "Relays have been notified and clients will be able to use this information to filter content. Thank you!"
+      },
+      {
+        "comment": "Label indicating that the text underneath is the identifier of the report that was sent to relay servers.",
+        "key": "Report ID:"
+      },
+      {
+        "comment": "Label indicating that the current view is for the user to report content.",
+        "key": "Report"
+      },
+      {
+        "comment": "Header text to prompt user what issue they want to report.",
+        "key": "What do you want to report?"
+      },
+      {
+        "comment": "Footer text to inform user what will happen when the report is submitted.",
+        "key": "Your report will be sent to the relays you are connected to"
+      }
+    ]
+  },
+  "version": 1
+}

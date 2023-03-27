@@ -1,0 +1,32 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/EditMetadataView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Satoshi Nakamoto"
+      },
+      {
+        "comment": "",
+        "key": "satoshi"
+      },
+      {
+        "comment": "Label for NIP-05 Verification section of user profile form.",
+        "key": "NIP-05 Verification"
+      },
+      {
+        "comment": "Description of how the nip05 identifier would be used for verification.",
+        "key": "'%@' at '%@' will be used for verification"
+      },
+      {
+        "comment": "Description of why the nip05 identifier is invalid.",
+        "key": "'%@' is an invalid NIP-05 identifier. It should look like an email."
+      },
+      {
+        "comment": "Giving the description of the alert message.",
+        "key": "The address should either begin with LNURL or should look like an email address."
+      }
+    ]
+  },
+  "version": 1
+}

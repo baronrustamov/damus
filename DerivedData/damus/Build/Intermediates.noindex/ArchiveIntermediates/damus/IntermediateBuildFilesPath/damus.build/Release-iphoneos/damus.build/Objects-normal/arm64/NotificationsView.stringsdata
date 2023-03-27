@@ -1,0 +1,20 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/Notifications/NotificationsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Label for filter for all notifications.",
+        "key": "All"
+      },
+      {
+        "comment": "Label for filter for zap notifications.",
+        "key": "Zaps"
+      },
+      {
+        "comment": "Label for filter for seeing mention notifications (replies, etc).",
+        "key": "Mentions"
+      }
+    ]
+  },
+  "version": 1
+}

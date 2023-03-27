@@ -1,0 +1,20 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/CreateAccountView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Create Account"
+      },
+      {
+        "comment": "",
+        "key": ""
+      },
+      {
+        "comment": "Label indicating that a form input is optional.",
+        "key": "optional"
+      }
+    ]
+  },
+  "version": 1
+}

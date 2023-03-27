@@ -1,0 +1,60 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld/%lld"
+      },
+      {
+        "comment": "",
+        "key": "%@ has been blocked"
+      },
+      {
+        "comment": "",
+        "key": "User has been blocked"
+      },
+      {
+        "comment": "",
+        "key": "No block list found, create a new one? This will overwrite any previous block lists."
+      },
+      {
+        "comment": "",
+        "key": "Block %@?"
+      },
+      {
+        "comment": "",
+        "key": "Could not find user to block..."
+      },
+      {
+        "comment": "",
+        "key": "Are you sure you want to repost this?"
+      },
+      {
+        "comment": "",
+        "key": "Home"
+      },
+      {
+        "comment": "",
+        "key": "DMs"
+      },
+      {
+        "comment": "",
+        "key": "Notifications"
+      },
+      {
+        "comment": "",
+        "key": "Universe 🛸"
+      },
+      {
+        "comment": "",
+        "key": "Posts"
+      },
+      {
+        "comment": "",
+        "key": "Posts & Replies"
+      }
+    ]
+  },
+  "version": 1
+}

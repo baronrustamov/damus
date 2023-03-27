@@ -1,0 +1,110 @@
+"/Users/vladislavsorokin/reps/damus/damus/Views/PostView.swift":
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/PostView.d"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/PostView.swiftdeps"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/PostView.dia"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/PostView.o"
+"/Users/vladislavsorokin/reps/damus/damus/Views/EventDetailView.swift":
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/EventDetailView.swiftdeps"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/EventDetailView.o"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/EventDetailView.d"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/EventDetailView.dia"
+"/Users/vladislavsorokin/reps/damus/damus/Nostr/ProofOfWork.swift":
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ProofOfWork.swiftdeps"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ProofOfWork.dia"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ProofOfWork.o"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ProofOfWork.d"
+"/Users/vladislavsorokin/reps/damus/damus/Util/Debouncer.swift":
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Debouncer.d"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Debouncer.o"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Debouncer.dia"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Debouncer.swiftdeps"
+"/Users/vladislavsorokin/reps/damus/damus/Models/DraftsModel.swift":
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/DraftsModel.dia"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/DraftsModel.d"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/DraftsModel.swiftdeps"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/DraftsModel.o"
+"/Users/vladislavsorokin/reps/damus/damus/Util/Markdown.swift":
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Markdown.d"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Markdown.o"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Markdown.dia"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Markdown.swiftdeps"
+"/Users/vladislavsorokin/reps/damus/damus/Views/RepostsView.swift":
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/RepostsView.o"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/RepostsView.d"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/RepostsView.swiftdeps"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/RepostsView.dia"
+"/Users/vladislavsorokin/reps/damus/damus/Models/DeepLPlan.swift":
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/DeepLPlan.o"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/DeepLPlan.dia"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/DeepLPlan.swiftdeps"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/DeepLPlan.d"
+"/Users/vladislavsorokin/reps/damus/damus/Views/Relays/RelayStatus.swift":
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/RelayStatus.d"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/RelayStatus.dia"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/RelayStatus.o"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/RelayStatus.swiftdeps"
+"/Users/vladislavsorokin/reps/damus/damus/Views/MainTabView.swift":
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/MainTabView.o"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/MainTabView.swiftdeps"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/MainTabView.d"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/MainTabView.dia"
+"/Users/vladislavsorokin/reps/damus/damus/Views/Events/ReplyDescription.swift":
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ReplyDescription.swiftdeps"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ReplyDescription.dia"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ReplyDescription.d"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ReplyDescription.o"
+"/Users/vladislavsorokin/reps/damus/damus/Views/Relays/Detail/RelayPaidDetail.swift":
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/RelayPaidDetail.dia"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/RelayPaidDetail.o"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/RelayPaidDetail.d"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/RelayPaidDetail.swiftdeps"
+"/Users/vladislavsorokin/reps/damus/damus/Models/Report.swift":
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Report.swiftdeps"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Report.d"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Report.dia"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Report.o"
+"/Users/vladislavsorokin/reps/damus/damus/Views/Notifications/NotificationsView.swift":
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/NotificationsView.d"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/NotificationsView.o"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/NotificationsView.dia"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/NotificationsView.swiftdeps"
+"/Users/vladislavsorokin/reps/damus/damus/Views/Events/EventMenu.swift":
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/EventMenu.o"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/EventMenu.swiftdeps"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/EventMenu.d"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/EventMenu.dia"
+"/Users/vladislavsorokin/reps/damus/damus/Util/Extensions/Binding+.swift":
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Binding+.d"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Binding+.o"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Binding+.dia"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Binding+.swiftdeps"
+"/Users/vladislavsorokin/reps/damus/damus/Nostr/Relay.swift":
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Relay.o"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Relay.dia"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Relay.swiftdeps"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Relay.d"
+"/Users/vladislavsorokin/reps/damus/damus/Views/Profile/ProfileNameView.swift":
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ProfileNameView.swiftdeps"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ProfileNameView.d"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ProfileNameView.o"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ProfileNameView.dia"
+"/Users/vladislavsorokin/reps/damus/damus/Models/Wallet.swift":
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Wallet.dia"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Wallet.o"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Wallet.swiftdeps"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Wallet.d"
+"/Users/vladislavsorokin/reps/damus/damus/Models/ChatroomMetadata.swift":
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ChatroomMetadata.d"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ChatroomMetadata.swiftdeps"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ChatroomMetadata.dia"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/ChatroomMetadata.o"
+"/Users/vladislavsorokin/reps/damus/damus/Util/Constants.swift":
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Constants.swiftdeps"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Constants.d"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Constants.o"
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/Constants.dia"
+"/Users/vladislavsorokin/reps/damus/damus/Models/LibreTranslateServer.swift":
+  diagnostics: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/LibreTranslateServer.dia"
+  dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/LibreTranslateServer.d"
+  swift-dependencies: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/LibreTranslateServer.swiftdeps"
+  object: "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex/damus.build/Debug-iphonesimulator/damus.build/Objects-normal/arm64/LibreTranslateServer.o"

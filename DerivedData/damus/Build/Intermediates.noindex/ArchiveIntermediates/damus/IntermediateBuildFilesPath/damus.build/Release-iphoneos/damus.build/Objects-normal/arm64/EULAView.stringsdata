@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/EULAView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Label indicating that the below text is the EULA, an acronym for End User License Agreement.",
+        "key": "EULA"
+      }
+    ]
+  },
+  "version": 1
+}

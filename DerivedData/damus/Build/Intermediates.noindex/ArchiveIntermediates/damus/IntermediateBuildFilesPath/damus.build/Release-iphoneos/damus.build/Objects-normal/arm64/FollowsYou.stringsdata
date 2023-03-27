@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/Profile/FollowsYou.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Text to indicate that a user is following your profile.",
+        "key": "Follows you"
+      }
+    ]
+  },
+  "version": 1
+}

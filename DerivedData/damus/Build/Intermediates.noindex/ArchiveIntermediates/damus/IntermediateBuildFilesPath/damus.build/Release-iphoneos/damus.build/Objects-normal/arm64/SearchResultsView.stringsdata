@@ -1,0 +1,16 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/SearchResultsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "No search results.",
+        "key": "none"
+      },
+      {
+        "comment": "Navigation link to search hashtag.",
+        "key": "Search hashtag: #%@"
+      }
+    ]
+  },
+  "version": 1
+}

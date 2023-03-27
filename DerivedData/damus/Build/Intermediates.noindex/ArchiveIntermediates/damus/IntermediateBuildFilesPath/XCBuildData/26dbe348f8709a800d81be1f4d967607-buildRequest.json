@@ -1,0 +1,79 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "20cea0b1d5cdb9e09ef7ea6d1c6a9692c3c28ce55f1982726e3be5ee389fb132"
+    }
+  ],
+  "containerPath" : "/Users/vladislavsorokin/reps/damus/damus.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+      "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/ArchiveIntermediates/damus/InstallationBuildProductsLocation/OnDemandResources",
+          "ASSETCATALOG_COMPILER_FLATTENED_APP_ICON_PATH" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/ArchiveIntermediates/damus/BuildProductsPath/ProductIcon.png",
+          "BITCODE_GENERATION_MODE" : "bitcode",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/ArchiveIntermediates/damus/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/ArchiveIntermediates/damus/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/ArchiveIntermediates/damus/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/ArchiveIntermediates/damus/IntermediateBuildFilesPath",
+          "SHARED_PRECOMPS_DIR" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/ArchiveIntermediates/damus/PrecompiledHeaders",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/ArchiveIntermediates/damus/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/ArchiveIntermediates/damus/BuildProductsPath",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/ArchiveIntermediates/damus/BuildProductsPath/WatchKitSupport2"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "archive",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

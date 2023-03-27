@@ -1,0 +1,16 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/Relays/RelayDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Section header that indicates the relay server requires payment.",
+        "key": "Paid Relay"
+      },
+      {
+        "comment": "Footer description that explains that the relay server requires payment to post.",
+        "key": "This is a paid relay, you must pay for posts to be accepted."
+      }
+    ]
+  },
+  "version": 1
+}

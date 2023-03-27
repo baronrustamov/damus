@@ -1,0 +1,16 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/ActionBar/EventDetailBar.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld"
+      },
+      {
+        "comment": "Sentence composed of 2 variables to describe how many reposts. In source English, the first variable is the number of reposts, and the second variable is 'Repost' or 'Reposts'.",
+        "key": "%@ %@"
+      }
+    ]
+  },
+  "version": 1
+}

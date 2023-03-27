@@ -1,0 +1,16 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/Search/SearchingEventView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "When a note or profile is not found when searching for it via its note id",
+        "key": "%@ not found"
+      },
+      {
+        "comment": "Label that appears when searching for note or profile",
+        "key": "Looking for %@..."
+      }
+    ]
+  },
+  "version": 1
+}

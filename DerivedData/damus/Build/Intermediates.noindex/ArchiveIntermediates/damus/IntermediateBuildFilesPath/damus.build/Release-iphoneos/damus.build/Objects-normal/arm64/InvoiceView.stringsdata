@@ -1,0 +1,20 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Components/InvoiceView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Button to pay a Lightning invoice.",
+        "key": "Pay"
+      },
+      {
+        "comment": "Indicates that the view is for paying a Lightning invoice.",
+        "key": "Lightning Invoice"
+      },
+      {
+        "comment": "",
+        "key": ""
+      }
+    ]
+  },
+  "version": 1
+}

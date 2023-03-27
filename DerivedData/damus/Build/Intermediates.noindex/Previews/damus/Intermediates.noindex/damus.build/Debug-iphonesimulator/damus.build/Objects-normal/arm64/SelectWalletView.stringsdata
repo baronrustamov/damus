@@ -1,0 +1,20 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/SelectWalletView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Navigation bar title for view to pay Lightning invoice.",
+        "key": "Pay the Lightning invoice"
+      },
+      {
+        "comment": "Button to pay a Lightning invoice with the user's default Lightning wallet.",
+        "key": "Default Wallet"
+      },
+      {
+        "comment": "Button to dismiss wallet selection view for paying Lightning invoice.",
+        "key": "Done"
+      }
+    ]
+  },
+  "version": 1
+}

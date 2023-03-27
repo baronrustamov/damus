@@ -1,0 +1,40 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "76c1418dd027dcb8f75f8630820e3decf58de424a60312221fc4b2370c415378"
+build_start_time: [1679213348, 963330984]
+build_end_time: [1679213350, 240257024]
+inputs:
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/Asymmetric.swift"
+  : [1679213339, 100955486]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/DH.swift": [1679213339, 101023674]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/Digests.swift"
+  : [1679213339, 101083755]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/ECDH.swift": [1679213339, 101157665]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/ECDSA.swift": [1679213339, 101257801]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/EdDSA.swift": [1679213339, 101327896]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/Errors.swift"
+  : [1679213339, 101387023]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/PrettyBytes.swift"
+  : [1679213339, 101452350]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/SHA256.swift"
+  : [1679213339, 101519346]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/SafeCompare.swift"
+  : [1679213339, 101583480]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/Schnorr.swift"
+  : [1679213339, 101665019]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/Tweak.swift": [1679213339, 101735591]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/Utility.swift"
+  : [1679213339, 101799964]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/Zeroization.swift"
+  : [1679213339, 101888656]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/secp256k1.swift"
+  : [1679213339, 101992130]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/swift-crypto/Sources/Crypto/Digests/Digest.swift"
+  : [1679213343, 330489635]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/swift-crypto/Sources/Crypto/Signatures/Signature.swift"
+  : [1679213343, 334159374]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/swift-crypto/Sources/Crypto/Util/BoringSSL/RNG_boring.swift"
+  : [1679213343, 334643840]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/swift-crypto/Sources/Crypto/Util/SecureBytes.swift"
+  : [1679213343, 335064888]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/secp256k1.swift/Sources/implementation/swift-crypto/Tests/_CryptoExtrasTests/Utils/BytesUtil.swift"
+  : [1679213343, 352719306]

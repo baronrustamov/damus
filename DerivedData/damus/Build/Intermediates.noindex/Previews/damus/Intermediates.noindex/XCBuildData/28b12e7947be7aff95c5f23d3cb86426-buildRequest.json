@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "20cea0b1d5cdb9e09ef7ea6d1c6a9692c3c28ce55f1982726e3be5ee389fb132"
+    }
+  ],
+  "containerPath" : "/Users/vladislavsorokin/reps/damus/damus.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+      "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "OBJROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Intermediates.noindex",
+          "SYMROOT" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Intermediates.noindex/Previews/damus/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

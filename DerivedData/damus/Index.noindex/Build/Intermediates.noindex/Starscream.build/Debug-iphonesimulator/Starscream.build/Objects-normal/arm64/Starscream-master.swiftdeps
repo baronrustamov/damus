@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "280c694b760255d7232261e290b6d55a9fe1e454a25a41a20f5b04378add3bd1"
+build_start_time: [1679213348, 963302135]
+build_end_time: [1679213350, 457982063]
+inputs:
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Compression/Compression.swift": [1679213343, 822521209]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Compression/WSCompression.swift": [1679213343, 822626352]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/DataBytes/Data+Extensions.swift": [1679213343, 822724580]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Engine/Engine.swift": [1679213343, 822953462]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Engine/NativeEngine.swift": [1679213343, 823065280]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Engine/WSEngine.swift": [1679213343, 823149681]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Framer/FoundationHTTPHandler.swift"
+  : [1679213343, 823301315]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Framer/FoundationHTTPServerHandler.swift"
+  : [1679213343, 823382377]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Framer/FrameCollector.swift": [1679213343, 823441743]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Framer/Framer.swift": [1679213343, 823538780]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Framer/HTTPHandler.swift": [1679213343, 823622941]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Framer/StringHTTPHandler.swift": [1679213343, 827270030]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Security/FoundationSecurity.swift"
+  : [1679213343, 827505826]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Security/Security.swift": [1679213343, 827575683]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Server/Server.swift": [1679213343, 827970981]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Server/WebSocketServer.swift": [1679213343, 828045606]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Starscream/WebSocket.swift": [1679213343, 828223228]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Transport/FoundationTransport.swift"
+  : [1679213343, 828372001]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Transport/TCPTransport.swift": [1679213343, 828472614]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Starscream/Sources/Transport/Transport.swift": [1679213343, 828558921]

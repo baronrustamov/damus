@@ -1,0 +1,88 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "bba95b398d74a1be498a0b0fa4c7bd1f0f1a37afdeb0aed59d17442c798b64d2"
+build_start_time: [1679215894, 412403106]
+build_end_time: [1679215906, 31661033]
+inputs:
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Cache/CacheSerializer.swift": [1679213343, 614857673]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Cache/DiskStorage.swift": [1679213343, 614996671]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Cache/FormatIndicatedCacheSerializer.swift"
+  : [1679213343, 615150928]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Cache/ImageCache.swift": [1679213343, 615520715]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Cache/MemoryStorage.swift": [1679213343, 615651369]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Cache/Storage.swift": [1679213343, 615737915]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/CPListItem+Kingfisher.swift"
+  : [1679213343, 615918159]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift"
+  : [1679213343, 616017818]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSButton+Kingfisher.swift"
+  : [1679213343, 616108417]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSTextAttachment+Kingfisher.swift"
+  : [1679213343, 616190910]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/TVMonogramView+Kingfisher.swift"
+  : [1679213343, 616274833]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/UIButton+Kingfisher.swift"
+  : [1679213343, 616374969]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Extensions/WKInterfaceImage+Kingfisher.swift"
+  : [1679213343, 616472482]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/AVAssetImageDataProvider.swift"
+  : [1679213343, 616652488]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/ImageDataProvider.swift"
+  : [1679213343, 616766929]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Resource.swift"
+  : [1679213343, 616864204]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Source.swift"
+  : [1679213343, 616963863]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/KF.swift": [1679213343, 617160797]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/KFOptionsSetter.swift": [1679213343, 617323875]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/Kingfisher.swift": [1679213343, 617409467]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherError.swift": [1679213343, 617581605]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherManager.swift": [1679213343, 617792367]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherOptionsInfo.swift"
+  : [1679213343, 617955684]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/Filter.swift": [1679213343, 618093490]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/GIFAnimatedImage.swift": [1679213343, 618187427]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/GraphicsContext.swift": [1679213343, 618263006]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/Image.swift": [1679213343, 618364334]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageDrawing.swift": [1679213343, 618486881]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageFormat.swift": [1679213343, 618580579]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProcessor.swift": [1679213343, 618736743]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProgressive.swift": [1679213343, 618867397]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageTransition.swift": [1679213343, 618961811]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Image/Placeholder.swift": [1679213343, 619061946]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift"
+  : [1679213343, 619307518]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDataProcessor.swift"
+  : [1679213343, 619392395]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloader.swift"
+  : [1679213343, 619599580]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift"
+  : [1679213343, 619709014]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageModifier.swift": [1679213343, 619825601]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImagePrefetcher.swift"
+  : [1679213343, 619966745]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/RedirectHandler.swift"
+  : [1679213343, 620059490]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/RequestModifier.swift"
+  : [1679213343, 620129585]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/RetryStrategy.swift": [1679213343, 620211362]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDataTask.swift"
+  : [1679213343, 620329856]
+  ? "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDelegate.swift"
+  : [1679213343, 620403289]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageBinder.swift": [1679213343, 620527267]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageContext.swift": [1679213343, 620602607]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift": [1679213343, 620697498]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImage.swift": [1679213343, 620806694]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageOptions.swift": [1679213343, 620897293]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageProtocol.swift": [1679213343, 621040821]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageRenderer.swift": [1679213343, 621174573]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/Box.swift": [1679213343, 621474027]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/CallbackQueue.swift": [1679213343, 621562957]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/Delegate.swift": [1679213343, 621707439]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/ExtensionHelpers.swift": [1679213343, 621799230]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/Result.swift": [1679213343, 621899366]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/Runtime.swift": [1679213343, 622022628]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/SizeExtensions.swift": [1679213343, 622108459]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Utility/String+MD5.swift": [1679213343, 622222423]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Views/AnimatedImageView.swift": [1679213343, 622400760]
+  "/Users/vladislavsorokin/reps/damus/DerivedData/damus/SourcePackages/checkouts/Kingfisher/Sources/Views/Indicator.swift": [1679213343, 622516155]

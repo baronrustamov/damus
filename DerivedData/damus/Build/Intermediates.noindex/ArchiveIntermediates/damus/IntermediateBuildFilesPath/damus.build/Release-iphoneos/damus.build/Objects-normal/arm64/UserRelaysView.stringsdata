@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/UserRelaysView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Relays"
+      }
+    ]
+  },
+  "version": 1
+}

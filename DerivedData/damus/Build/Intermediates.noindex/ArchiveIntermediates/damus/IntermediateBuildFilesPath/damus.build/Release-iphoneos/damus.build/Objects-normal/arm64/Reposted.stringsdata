@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Components/Reposted.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Text indicating that the post was reposted (i.e. re-shared).",
+        "key": "Reposted"
+      }
+    ]
+  },
+  "version": 1
+}

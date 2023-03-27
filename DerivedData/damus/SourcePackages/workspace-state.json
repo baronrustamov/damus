@@ -1,0 +1,77 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "kingfisher",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/onevcat/Kingfisher",
+          "name" : "Kingfisher"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "415b1d97fb38bda1e5a6b2dde63354720832110b",
+            "version" : "7.6.1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Kingfisher"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "secp256k1.swift",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/jb55/secp256k1.swift",
+          "name" : "secp256k1"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "40b4b38b3b1c83f7088c76189a742870e0ca06a9"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "secp256k1.swift"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "starscream",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/daltoniam/Starscream",
+          "name" : "Starscream"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "df8d82047f6654d8e4b655d1b1525c64e1059d21",
+            "version" : "4.0.4"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Starscream"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "vault",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/SparrowTek/Vault",
+          "name" : "Vault"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "87db56c3c8b6421c65b0745f73e08b0dc56f79d4",
+            "version" : "1.0.3"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Vault"
+      }
+    ]
+  },
+  "version" : 5
+}

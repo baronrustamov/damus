@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/ActionBar/ShareAction.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Title text to indicate that the buttons below are meant to be used to share a note with others.",
+        "key": "Share Note"
+      }
+    ]
+  },
+  "version": 1
+}

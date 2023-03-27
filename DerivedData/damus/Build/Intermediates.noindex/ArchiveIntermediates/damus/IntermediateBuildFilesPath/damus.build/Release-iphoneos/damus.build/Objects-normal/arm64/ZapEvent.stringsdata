@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/Events/ZapEvent.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Text indicating the zap amount. i.e. number of satoshis that were tipped to a user",
+        "key": "⚡️ %@"
+      }
+    ]
+  },
+  "version": 1
+}

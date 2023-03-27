@@ -1,0 +1,20 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/SideMenuView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Logout"
+      },
+      {
+        "comment": "",
+        "key": ""
+      },
+      {
+        "comment": "Reminder message in alert to get customer to verify that their private security account key is saved saved before logging out.",
+        "key": "Make sure your nsec account key is saved before you logout or you will lose access to this account"
+      }
+    ]
+  },
+  "version": 1
+}

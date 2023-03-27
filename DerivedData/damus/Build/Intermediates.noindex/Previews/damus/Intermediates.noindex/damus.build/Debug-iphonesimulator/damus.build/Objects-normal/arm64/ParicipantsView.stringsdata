@@ -1,0 +1,20 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/ParicipantsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Text indicating that the view is used for editing which participants are replied to in a note.",
+        "key": "Edit participants"
+      },
+      {
+        "comment": "Button label to remove all participants from a note reply.",
+        "key": "Remove all"
+      },
+      {
+        "comment": "Button label to re-add all original participants as profiles to reply to in a note",
+        "key": "Add all"
+      }
+    ]
+  },
+  "version": 1
+}

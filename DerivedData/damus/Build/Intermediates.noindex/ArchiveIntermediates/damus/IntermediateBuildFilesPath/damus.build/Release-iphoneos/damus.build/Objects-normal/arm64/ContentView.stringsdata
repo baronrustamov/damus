@@ -1,0 +1,60 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Label for filter for seeing only posts (instead of posts and replies).",
+        "key": "Posts"
+      },
+      {
+        "comment": "Label for filter for seeing posts and replies (instead of only posts).",
+        "key": "Posts & Replies"
+      },
+      {
+        "comment": "Navigation bar title for Home view where posts and replies appear from those who the user is following.",
+        "key": "Home"
+      },
+      {
+        "comment": "Toolbar label for DMs view, where DM is the English abbreviation for Direct Message.",
+        "key": "DMs"
+      },
+      {
+        "comment": "Toolbar label for Notifications view.",
+        "key": "Notifications"
+      },
+      {
+        "comment": "Toolbar label for the universal view where posts from all connected relay servers appear.",
+        "key": "Universe 🛸"
+      },
+      {
+        "comment": "Fraction of how many of the user's relay servers that are operational.",
+        "key": "%lld/%lld"
+      },
+      {
+        "comment": "Alert message that informs a user was blocked.",
+        "key": "%@ has been blocked"
+      },
+      {
+        "comment": "Alert message that informs a user was blocked.",
+        "key": "User has been blocked"
+      },
+      {
+        "comment": "Alert message prompt that asks if the user wants to create a new block list, overwriting previous block lists.",
+        "key": "No block list found, create a new one? This will overwrite any previous block lists."
+      },
+      {
+        "comment": "Alert message prompt to ask if a user should be blocked.",
+        "key": "Block %@?"
+      },
+      {
+        "comment": "Alert message to indicate that the blocked user could not be found.",
+        "key": "Could not find user to block..."
+      },
+      {
+        "comment": "Alert message to ask if user wants to repost a post.",
+        "key": "Are you sure you want to repost this?"
+      }
+    ]
+  },
+  "version": 1
+}

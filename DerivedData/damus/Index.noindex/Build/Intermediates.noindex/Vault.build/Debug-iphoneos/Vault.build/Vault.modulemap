@@ -1,0 +1,4 @@
+module Vault {
+header "Vault-Swift.h"
+export *
+}

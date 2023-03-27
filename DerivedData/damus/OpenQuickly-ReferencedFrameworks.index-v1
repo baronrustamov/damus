@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Darwin</string>
+	<string>LocalAuthentication</string>
+	<string>AVFoundation</string>
+	<string>Cocoa</string>
+	<string>CommonCrypto</string>
+	<string>UIKit</string>
+	<string>ImageIO</string>
+	<string>objc</string>
+	<string>NaturalLanguage</string>
+	<string>Network</string>
+	<string>UniformTypeIdentifiers</string>
+	<string>secp256k1</string>
+	<string>Accelerate</string>
+	<string>CoreData</string>
+	<string>MobileCoreServices</string>
+	<string>CoreImage</string>
+	<string>CoreServices</string>
+	<string>TVUIKit</string>
+	<string>damus</string>
+	<string>SwiftUI</string>
+	<string>Vault</string>
+	<string>Kingfisher</string>
+	<string>AVKit</string>
+	<string>FoundationNetworking</string>
+	<string>CryptoKit</string>
+	<string>XCTest</string>
+	<string>PackageDescription</string>
+	<string>WatchKit</string>
+	<string>Foundation</string>
+	<string>os</string>
+	<string>zlib</string>
+	<string>AppKit</string>
+	<string>Starscream</string>
+	<string>Combine</string>
+	<string>CoreGraphics</string>
+	<string>LinkPresentation</string>
+	<string>CarPlay</string>
+</array>
+</plist>

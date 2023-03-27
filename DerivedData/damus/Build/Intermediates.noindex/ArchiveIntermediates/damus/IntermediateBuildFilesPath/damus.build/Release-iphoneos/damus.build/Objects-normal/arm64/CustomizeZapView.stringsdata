@@ -1,0 +1,44 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/Zaps/CustomizeZapView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Picker option to indicate that a zap should be sent publicly and identify the user as who sent it.",
+        "key": "Public"
+      },
+      {
+        "comment": "Picker option to indicate that a zap should be sent privately and not identify the user to the public.",
+        "key": "Private"
+      },
+      {
+        "comment": "Picker option to indicate that a zap should be sent anonymously and not identify the user as who sent it.",
+        "key": "Anonymous"
+      },
+      {
+        "comment": "",
+        "key": "%@"
+      },
+      {
+        "comment": "Text to indicate that the app is in the process of sending a zap.",
+        "key": "Zapping..."
+      },
+      {
+        "comment": "Header text to indicate that the picker below it is to choose a pre-defined amount of sats to zap.",
+        "key": "Zap Amount in sats"
+      },
+      {
+        "comment": "Header text to indicate that the text field below it is to enter a custom zap amount.",
+        "key": "Custom Zap Amount"
+      },
+      {
+        "comment": "Header text to indicate that the text field below it is a comment that will be used to send as part of a zap to the user.",
+        "key": "Comment"
+      },
+      {
+        "comment": "Header text to indicate that the picker below it is to choose the type of zap to send.",
+        "key": "Zap Type"
+      }
+    ]
+  },
+  "version": 1
+}

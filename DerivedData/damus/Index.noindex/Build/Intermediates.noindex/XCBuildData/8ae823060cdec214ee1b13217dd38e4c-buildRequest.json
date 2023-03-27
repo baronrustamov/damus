@@ -1,0 +1,72 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "20cea0b1d5cdb9e09ef7ea6d1c6a9692c3c28ce55f1982726e3be5ee389fb132"
+    },
+    {
+      "guid" : "20cea0b1d5cdb9e09ef7ea6d1c6a969232eb4a25720bef161ebf6465dd4ca19f"
+    },
+    {
+      "guid" : "20cea0b1d5cdb9e09ef7ea6d1c6a9692e4b1e633dfb2530698eb7dffc121d916"
+    }
+  ],
+  "containerPath" : "/Users/vladislavsorokin/reps/damus/damus.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/vladislavsorokin/reps/damus/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/vladislavsorokin/reps/damus/DerivedData/damus/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

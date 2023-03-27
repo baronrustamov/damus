@@ -1,0 +1,49 @@
+Target dependency graph (22 targets)
+Kingfisher in Kingfisher, no dependencies
+Kingfisher in Kingfisher, depends on:
+Kingfisher in Kingfisher (explicit)
+Vault in Vault, no dependencies
+Vault in Vault, depends on:
+Vault in Vault (explicit)
+Starscream in Starscream, no dependencies
+Starscream in Starscream, depends on:
+Starscream in Starscream (explicit)
+secp256k1_bindings in secp256k1, no dependencies
+secp256k1_implementation in secp256k1, depends on:
+secp256k1_bindings in secp256k1 (explicit)
+secp256k1 in secp256k1, depends on:
+secp256k1_bindings in secp256k1 (explicit)
+secp256k1_implementation in secp256k1 (explicit)
+secp256k1 in secp256k1, depends on:
+secp256k1 in secp256k1 (explicit)
+secp256k1_bindings in secp256k1 (explicit)
+secp256k1_implementation in secp256k1 (explicit)
+damus in damus, depends on:
+Kingfisher in Kingfisher (explicit)
+Vault in Vault (explicit)
+Starscream in Starscream (explicit)
+secp256k1 in secp256k1 (explicit)
+Kingfisher in Kingfisher, no dependencies
+Kingfisher in Kingfisher, depends on:
+Kingfisher in Kingfisher (explicit)
+Vault in Vault, no dependencies
+Vault in Vault, depends on:
+Vault in Vault (explicit)
+Starscream in Starscream, no dependencies
+Starscream in Starscream, depends on:
+Starscream in Starscream (explicit)
+secp256k1_bindings in secp256k1, no dependencies
+secp256k1_implementation in secp256k1, depends on:
+secp256k1_bindings in secp256k1 (explicit)
+secp256k1 in secp256k1, depends on:
+secp256k1_bindings in secp256k1 (explicit)
+secp256k1_implementation in secp256k1 (explicit)
+secp256k1 in secp256k1, depends on:
+secp256k1 in secp256k1 (explicit)
+secp256k1_bindings in secp256k1 (explicit)
+secp256k1_implementation in secp256k1 (explicit)
+damus in damus, depends on:
+Kingfisher in Kingfisher (explicit)
+Vault in Vault (explicit)
+Starscream in Starscream (explicit)
+secp256k1 in secp256k1 (explicit)

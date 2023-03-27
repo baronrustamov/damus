@@ -1,0 +1,16 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Views/QRCodeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Text on QR code view to prompt viewer looking at screen to follow the user.",
+        "key": "Follow me on nostr"
+      },
+      {
+        "comment": "Text on QR code view to prompt viewer to scan the QR code on screen with their device camera.",
+        "key": "Scan the code"
+      }
+    ]
+  },
+  "version": 1
+}

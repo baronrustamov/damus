@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladislavsorokin/reps/damus/damus/Components/TextFieldAlert.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Button to dismiss a text field alert.",
+        "key": "Dismiss"
+      }
+    ]
+  },
+  "version": 1
+}
